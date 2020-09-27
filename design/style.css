@@ -1,0 +1,54 @@
+/* Body Area */
+body {
+	background-image: url("../images/bg-pattern-desktop.svg");
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-color: Linear, 135deg, from hsl(0, 0%, 64%), to hsl(0, 74%, 74%);
+}
+
+/* // Message Pane */
+.message body {
+	text-align: left;
+}
+.company-logo {
+	padding-bottom: 150px;
+	padding-left: 200px;
+	padding-top: 70px;
+}
+.bdy-text {
+	padding-left: 200px;
+}
+.welcome1 {
+	color: #c3a5a5;
+	font-family: "Josefin Sans", sans-serif;
+	font-weight: lighter;
+	font-size: 3.5rem;
+}
+.welcome2 {
+	color: #433938;
+	font-family: "Josefin Sans", sans-serif;
+	font: bolder;
+	font-size: 3.5rem;
+}
+p {
+	color: #e4d2d2;
+	line-height: 1.5;
+	margin-bottom: 30px;
+}
+.model {
+	width: 100%;
+	height: 100%;
+}
+.userAddress {
+	color: #e4d2d2;
+	border: 0.9px;
+	border-radius: 8%;
+}
+/* Footer Styling */
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
